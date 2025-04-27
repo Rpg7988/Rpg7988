@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rpg7988
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning pthons
+- 🌱 I’m currently learning python and Reactjs
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
